@@ -1,4 +1,4 @@
 # News_Summarization
 
 Credits:
-NeuralNine
+NeuralNine (using nlp())
